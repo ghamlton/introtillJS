@@ -7,7 +7,7 @@ let surname = "Hamilton";
 let age = 23;
 let student = true;
 
-//Utskriften i konsol
+//Utskrift i konsol
 
 console.log(firstname + ' ' + surname);
 console.log(`Age: ${age}`);
