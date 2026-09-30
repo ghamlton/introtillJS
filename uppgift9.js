@@ -1,6 +1,10 @@
+//Programmet skapar en array med objekt där varje objekt är en person med namn, ålder och stad
+//En funktion personInfo() tar emot element från "people" och skriver ut info baserat på om personen är myndig eller ej.
+//Skrivet av Gabriel Hamilton, 2026 
+
 "use strict";
 
-//Array där varje element är object som innehåller name, age och city som properties.
+//Array där varje element är objekt som innehåller name, age och city som properties.
 
 let people = [
     {

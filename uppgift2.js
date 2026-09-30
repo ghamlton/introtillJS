@@ -1,3 +1,6 @@
+//Programmet räknar ut totalpriset för produkter som köps och 25% moms som läggs på
+//Skrivet av Gabriel Hamilton, 2026
+
 "use strict";
 
 // Variabler

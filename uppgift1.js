@@ -1,3 +1,6 @@
+//Programmet skriver ut info om en person och om denne är student eller ej. 
+//Skrivet av Gabriel Hamilton, 2026
+
 "use strict";
 
 //Variabler

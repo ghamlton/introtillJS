@@ -1,3 +1,7 @@
+//Programmet innehåller en funktion som tar emot bredd och höjd för att räkna ut area som sedan returneras.
+//Funktionen anropas med olika argument i console.log där olika resultat skrivs ut.
+//Skrivet av Gabriel Hamilton, 2026
+
 "use strict";
 
 //Funktionen med som tar emot två argument och returnerar "area"

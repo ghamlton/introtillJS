@@ -1,3 +1,6 @@
+//Programmet skriver först ut tal från 1-20 och sedan enbart jämna tal mellan 1-20
+//Skrivet av Gabriel Hamilton, 2026
+
 "use strict";
 
 //Första delen som skriver ut heltal från 1 till 20

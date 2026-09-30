@@ -1,3 +1,6 @@
+//Programmet kollar värdet av en variabel "age" för att se vilken åldersgrupp de tillhör
+//Skrivet av Gabriel Hamilton, 2026
+
 "use strict";
 
 //Variabel som kan ändras för att testa programmet

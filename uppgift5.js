@@ -1,3 +1,7 @@
+//Programmet skapar en array med 5 olika maträtter. 
+//Punkt 1-3 skriver ut elementen på olika sätt. Punkt 4-5 modifierar arrayen. Punkt 6 skriver ut den modifierade arrayen.
+//Skrivet av Gabriel Hamilton, 2026
+
 "use strict";
 
 let dishes = ["Ugnspannkaka", "Köttfärssås", "Fried Rice", "Lasagne", "Stroganoff"];
